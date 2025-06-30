@@ -4,9 +4,7 @@ A modern, interactive, and visually elegant landing page for a fictional digital
 
 ## 📸 Screenshots
 
-| Home Page                | Modal Form             | Tabbed Component         |
-| ------------------------ | ---------------------- | ------------------------ |
-| ![Home](img/bankist.png) | ![Modal](img/card.jpg) | ![Tabs](img/digital.jpg) |
+![Home](img/bankist.png)
 
 ---
 
