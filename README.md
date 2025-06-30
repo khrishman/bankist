@@ -4,7 +4,7 @@ A modern, interactive, and visually elegant landing page for a fictional digital
 
 ## 📸 Screenshots
 
-![Home](img/bankist.png)
+![Home](.img/bankist.png)
 
 ---
 
